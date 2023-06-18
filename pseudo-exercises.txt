@@ -22,11 +22,11 @@ a) n1,n2,n3,n4,n5
 b) add numbers/5
 c) if n1<n2
    set max at n2
-   if n2,n3
+   if n2<n3
    set max at n3
-   if n3,n4
+   if n3<n4
    set max at n4
-   if n4,n5
+   if n4<n5
    set max at n5
 write out "the max is"
 write max number
